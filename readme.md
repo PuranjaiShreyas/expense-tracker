@@ -13,7 +13,7 @@ This project is an Expense Tracker application written in Python. It helps users
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 
 ## Installation
 
